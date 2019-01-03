@@ -1,0 +1,5 @@
+Credentials cache: API:B9E0E24D-8103-41FC-A457-CACF96F9ECAE
+        Principal: viboujem@42.FR
+
+  Issued                Expires               Principal
+Jul  3 18:26:21 2018  Jul 10 18:26:02 2018  krbtgt/42.FR@42.FR
